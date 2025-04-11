@@ -1,0 +1,3 @@
+mode: set
+sonarqube/sum.go:5.13,7.2 1 0
+sonarqube/sum.go:9.24,11.2 1 1
